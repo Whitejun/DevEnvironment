@@ -56,6 +56,13 @@ git push origin main
 
 
 
+## 2、如何将本地库的新文件推送到github上
+
+```java
+参考的博客：
+https://blog.csdn.net/Jeffxu_lib/article/details/100726687?ops_request_misc=&request_id=&biz_id=102&utm_term=%E5%A6%82%E4%BD%95%E5%B0%86%E6%9C%AC%E5%9C%B0%E5%BA%93%E7%9A%84%E6%96%B0%E6%96%87%E4%BB%B6%E6%8E%A8%E9%80%81%E5%88%B0github%E4%B8%8A&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~sobaiduweb~default-3-100726687.142^v99^pc_search_result_base3&spm=1018.2226.3001.4450
+```
+
 
 
 # 三、Git& github
@@ -215,3 +222,14 @@ create new file
 对应的删除后的文件怎么看的问题点儿：
 
 点击进去，还收整个文件的变更的周期的记录
+
+
+
+##### ④ 上传文件的按钮
+
+![1710157812170](How to use Github.assets/1710157812170.png)
+
+
+
+⑤ 
+
